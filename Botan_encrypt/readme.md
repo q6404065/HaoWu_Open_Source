@@ -10,5 +10,5 @@ Bcrypt
 Scrypt
 ```
 ## Warning:     
-## This project is only for academic, any illegal using is blamed and no relationship with me.
+### This project is only for academic, any illegal using is blamed and no relationship with me.
 
