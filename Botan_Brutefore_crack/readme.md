@@ -1,6 +1,6 @@
 
 # This project is to create a brute force function and to crack hash function created by botan api
-# And the main function test the bruteforce cracking time for every hash function as benchmark
+### And the main function test the bruteforce cracking time for every hash function as benchmark
 ```
 Contain:
 SHA_256    
