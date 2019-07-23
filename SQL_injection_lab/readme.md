@@ -1,5 +1,5 @@
 
-# This is the lab of SQL inject
+# This is the lab of SQL injection
 ### All entry will be provided by pdf and picture
 
 ## Warning:     
