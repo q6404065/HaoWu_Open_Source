@@ -18,7 +18,7 @@ Phone: +1 9174993326/+86 18915203858
    This is a project to restore the process of usual encrypt method with botan api.   
    
    2. [BoTan_Bruteforce_cracking](https://github.com/q6404065/HaoWu_Open_Source/tree/master/Botan_Brutefore_crack)    
-   This is a project to create a brute force function and to crack hash function created by botan api.   
+   This is a project to create a brute force function and use it to crack hash function created.   
    
    3. [BoTan_Bruteforce_cracking_threads](https://github.com/q6404065/HaoWu_Open_Source/tree/master/Botan_Bruteforce_cracking_thread)   
    This is smiliar to Botan_Bruteforce_cracking but it uses threads to speed up it.   
