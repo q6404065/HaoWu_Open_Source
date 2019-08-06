@@ -1,5 +1,5 @@
 
-# This project is to record every legal penetration test process.
+# This project is to record a legal penetration test process.
 ### And the specific parts including:
 ```
 Network range detect
