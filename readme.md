@@ -21,12 +21,20 @@ Phone: +1 9174993326/+86 18915203858
    1. ./Botan_encrtpy   
    2. ./Botan_Bruteforce_crack
    3. ./Botan_Bruteforce_cracking_thread
-   4. ./SQL_injection_lab
-   5. ./Simple_Steganography_translate
+   4. ./Simple_Steganography_translate
 ```    
 ## Paper inluding:   
 
 ```
    1. ./docs/ZigBee_security_reasearch.pdf
    2. ./docs/Google_anitizer_vs_Valgrind_Memcheck.pdf
+```
+## Penetration test inluding:    
+```
+   1. ./Penetration_Test
+```   
+
+## SQL injection lab inluding:    
+```
+   1. ./SQL_injection_lab
 ```
