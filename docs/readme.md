@@ -37,6 +37,8 @@ Phone: +1 9174993326/+86 18915203858
    This test simulates the namp OS scan, openvas vulnerability scan, metasploit moudles exploits and privilege escalation.    
    
 ## SQL_injection_lab:   
-   1. [SQL injection 001](https://github.com/q6404065/HaoWu_Open_Source/tree/master/SQL_injection_lab)       
-   This is the restore of SQL injection websec 001.   
+   1. [SQL injection simple test](https://github.com/q6404065/HaoWu_Open_Source/blob/master/SQL_injection_lab/SQL_injection_simple_test.pdf)    
+   This is the sql injection test to a virtual web server with mysql.
+   2. [SQL injection 001](https://github.com/q6404065/HaoWu_Open_Source/blob/master/SQL_injection_lab/SQL_injection_level01.pdf)       
+   This is the restore of SQL injection websec 001 with sqlite.   
 
