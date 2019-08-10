@@ -35,7 +35,13 @@ Phone: +1 9174993326/+86 18915203858
    
 ## Penetration Test URL:     
    1. [Penetration_Test_01](https://github.com/q6404065/HaoWu_Open_Source/blob/master/Penetration_Test/Penetration_Test_01.pdf) 
-   This test simulates the namp OS scan, openvas vulnerability scan, metasploit moudles exploits and privilege escalation.    
+   This test simulates the namp OS scan, openvas vulnerability scan, metasploit moudles exploits and privilege escalation.   
+   
+   2. [Wireless DOS attack python script](https://github.com/q6404065/HaoWu_Open_Source/tree/master/Penetration_Test/Wirelss_attack)
+   This python script is based on Kali-linux Aircrack-ng packet tool, automated attack. DOS attack is based on Deauthentication function    of 802.11 Wifi protocol.   
+   
+   3. [Wireless Evil twin attack python script]      (https://github.com/q6404065/HaoWu_Open_Source/tree/master/Penetration_Test/Wirelss_attack)   
+   This python script is based on Kali-linux Aircrack-ng packet tool. It created a fake AP and DOS victim at the same time. Let victim connect to your fake AP, and then you can use wireshark to gather his packet or create a fake login web page to spoof his/her pwd..etc.
    
 ## SQL injection lab URL:   
    1. [SQL injection simple test](https://github.com/q6404065/HaoWu_Open_Source/blob/master/SQL_injection_lab/SQL_injection_simple_test.pdf)    
