@@ -35,3 +35,6 @@ system('echo 1 > /proc/sys/net/ipv4/ip_forward')
 sleep(1)
 system('dnsmasq -C ./dnsmasq.conf -d')
 print(colored('\nYou are all set please let it run','green'))
+
+if __name__ == '__main__':
+    main()
