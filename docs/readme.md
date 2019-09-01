@@ -48,4 +48,7 @@ Phone: +1 9174993326/+86 18915203858
    This is the sql injection test to a virtual web server with mysql.
    2. [SQL injection 001](https://github.com/q6404065/HaoWu_Open_Source/blob/master/SQL_injection_lab/SQL_injection_level01.pdf)       
    This is the restore of SQL injection websec 001 with sqlite.   
+## WeB Sec PoC: 
+   1. [NTNU_stored_xss](https://github.com/q6404065/HaoWu_Open_Source/tree/master/Penetration_Test/WeB%20PoC/)    
+   This is a stored_xss PoC of NTNU(Norwegian University of Science and Technology)
 
