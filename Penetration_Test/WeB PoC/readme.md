@@ -2,15 +2,7 @@
 # This project is to record SRC upload and PoC of mine.
 ### And the specific parts including:
 ```
-Network range detect
-Port scan and OS detection
-Vulnerability scan    
-Exploit vulnerability   
-Privilege escalation  
-Attack simulation:
-Arp spoofing
-Wireless DOS
-Wireless password attack
+Stored_XSS PoC of NTNU
 ```
 ## Warning:     
 ### This project is only for academic, any illegal using is blamed and no relationship with me.
